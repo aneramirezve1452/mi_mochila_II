@@ -1,0 +1,11 @@
+1. Git fue diseñado por Linus Torvalds y su propósito es llevar registro de los cambios en archivos de computadora incluyendo coordinar el trabajo que varias personas realizan sobre archivos compartidos en un repositorio de código.
+
+2. El 4 de junio de 2018 Microsoft compró GitHub por la cantidad de 7500 millones de dólares.
+
+3. Otras formas que se pueden usar: CMDER.
+                                    Powershell.
+                                    CMD.
+                                    GitBash.
+                                    Github Desktop.
+                                    Git bash.
+                                    Git lab.
