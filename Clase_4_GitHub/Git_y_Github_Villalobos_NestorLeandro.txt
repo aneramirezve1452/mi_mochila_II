@@ -1,0 +1,11 @@
+1) Git fue diseñado por Linus Torvalds debido a que era necesario llevar un registro de los cambios en archivos de computadora incluyendo coordinar el trabajo que varias personas esten realizando en diferentes archivos compartidos en un repositorio de código.
+
+2) Github pertenece a Microsoft desde Agosto de 2018 con el objetivo de estar mas cerca de la comunidad de desarrollo de software libre y abierto, asi busca brindar herramientas que faciliten su integracion con su sistema de Azure (Cloud) para poder competir con AWS (Amazon)
+
+3) Las alternativas a la consola GITBASH O CMD para trabajar con github son:
+
+DESDE OTRAS CONSOLAS: CMDER, GitBash, CMD, Github Desktop, ConEmu, Powershell, Hyper, Terminus, FLuent, 
+DESDE OTRAS INTERFACES GRAFICAS (GUI):
+source tree, gitkraken, smartgit, git-cola, git force, giggle, magit, egit, gitg, tower, tortoise, git extensions, git up, git eye, cycligent git tool, gitbox, aurees, fork ungit entre otros muchos mas.
+
+No obstante hay mas herramientas a GITHUB para el control de repositorios como GITLAB entre otros
