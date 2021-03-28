@@ -1,0 +1,14 @@
+                        CONSIGNA 1 : RESPUESTAS
+
+¿Quién inventó el sistema de control de versión Git y por qué?
+
+//El sistema de control degi versión GIT, fue creado por LINUX TORVALDS en el año 2005 para que trabajara específicamente el Kernel de LINUX, el kernel hace referencia al “NUCLEO” (SISTEMA OPERATIVO) de un equipo en el caso de Linux se llama KERNEL. 
+
+
+¿A quién pertenece actualmente Github y por qué?
+
+// Actualmente GitHub pertenece s Microsoft Corporation  desde el año 2018, la compra de github la realizan principalmente por el crecimiento de servicios en la nube buscando una fácil integración con microsoft azure.
+
+¿Hay otra forma que no sea la terminal para trabajar con Github?
+
+// según mi investigación y básico conocimiento en el tema, solo se trabaja desde la terminal, powershell ya que todos los artículos hacen referencia directamente a la terminal ya sea que se trabaje directamente
