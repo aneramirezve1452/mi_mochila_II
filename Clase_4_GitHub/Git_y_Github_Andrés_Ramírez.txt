@@ -1,0 +1,30 @@
+1. ¿Quién inventó el sistema de control de versión Git y por qué?
+
+El proyecto Git tuvo su génesis en el año 2005, cuando Linus Torvalds (creador de Linux), 
+decide desarollar una herramienta propia que pudiera reemplazar al DVCS llamado bitKeeper que usaba el kernel de linux. 
+En ese sentido, el objetivo era lograr un nuevo sitema con:
+ · Mayor velocidad.
+ · Un diseño sencillo.
+ · Gran soporte para desarrollo no lineal.
+ · Capacidad de manejar grandes proyectos de manera eficiente.
+ · Amplia distribución
+
+2. ¿A quién pertenece Github y por qué?
+
+Github es un portal cuya función principal es alojar codigo de las
+aplicaciones de cualquier desarrollador. Este portal fue comprado 
+por Microsoft en junio del 2018 por un total de 7500 millones de dolares.
+La empresa de tecnología según el País de España (2018), adquirió Github
+para valorar aún más sus acciones, además, desde Github consideraron la 
+compra algo fundamental para garantizar en el futuro una mayor accesibilidad
+a un número mayor de desarrolladores a lo largo del mundo; mayor fiabilidad,
+seguridad y rendimiento; así como lograr que sea un mejor lugar para el trabajo
+productivo en equipos. 
+
+3. ¿Hay otra forma que no sea la terminal para trabajar con Gitub?
+
+Una forma de trabajar con Github diferente a la terminal es Github Desktop, la cual
+es una aplicación que permite interactuar con Github utilizando una GUI en vez de la
+línea de comandos o de un buscador web. En ese sentido, permite trabajar y colaborar
+utilizando las mejores prácticas con Git y Github, a la par que se puede crear, clonar
+y extraer repositorios remotos sin utilizar comandos sino ayudas visuales.
